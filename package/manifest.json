@@ -1,0 +1,9 @@
+{
+  "name": "Carturs_Mining",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/jekkle/cartur-mining",
+  "description": "More mining damage and more ore from every deposit on the Pickaxes skill you already have, and from level 50 a chance to shatter a whole deposit. Inspired by Smoothbrain's Mining.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
